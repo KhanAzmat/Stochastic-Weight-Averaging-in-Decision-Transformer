@@ -3,4 +3,4 @@ We try to better generalise the performance of decision transformer by using the
 ![image](https://github.com/user-attachments/assets/a109058b-d2db-47d0-ba96-546f3e08241c)
 
 ## Acknowledgement
-This code borrows from <link src='https://github.com/kzl/decision-transformer'/>
+This code borrows from <link src='https://github.com/kzl/decision-transformer'>Decision Transformer<link/>
